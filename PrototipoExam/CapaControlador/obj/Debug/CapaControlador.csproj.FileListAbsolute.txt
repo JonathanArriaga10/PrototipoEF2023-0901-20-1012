@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\PrototipoExam\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\PC\Desktop\PrototipoExam\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\PC\Desktop\PrototipoExam\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\PrototipoExam\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\PrototipoExam\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\PC\Desktop\PrototipoExam\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\PC\Desktop\ANALISIS2\PrototipoExam\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\PC\Desktop\ANALISIS2\PrototipoExam\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\PC\Desktop\ANALISIS2\PrototipoExam\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\PC\Desktop\ANALISIS2\PrototipoExam\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\PC\Desktop\ANALISIS2\PrototipoExam\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\ANALISIS2\PrototipoExam\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ANALISIS2\PrototipoExam\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\PC\Desktop\ANALISIS2\PrototipoExam\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\PC\Desktop\ANALISIS2\PrototipoExam\CapaControlador\obj\Debug\CapaControlador.pdb
